@@ -1,4 +1,8 @@
 - Sauce Tomate
 - Pate à pizza vegan
 - Champignons
-- Basilic
+- Basilic- Sauce tomate
+- Pâte à pizza
+- Fromage italien
+- Jambon
+- Olives
