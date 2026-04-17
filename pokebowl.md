@@ -1,0 +1,5 @@
+- Haricots
+- Riz
+- Poulet
+- Salade
+- Vinaigrette
